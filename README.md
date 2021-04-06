@@ -1,1 +1,1 @@
-# prediction-of-purchases
+# purchases prediction on instacart
